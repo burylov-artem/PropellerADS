@@ -1,4 +1,5 @@
 @search_video_youtube_authorized_user
+@test
 
 Feature: validation request for authorized user
 

@@ -1,4 +1,5 @@
 @youtube_registration
+@test
 
 Feature: Youtube registration
 

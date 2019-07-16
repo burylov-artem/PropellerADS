@@ -13,7 +13,7 @@ import java.util.concurrent.TimeUnit;
 @RunWith(Cucumber.class)
 @CucumberOptions(
         features = {"src/test/java/PropellerADS/features/"},
-        tags = {"@youtube_registration"},
+        tags = {"@test"},
         glue = "PropellerADS",
         format = {"pretty", "json:target/cucumber.json", "html:target/cucumber.html"},
         plugin = {"json:target/cucumber.json"}
